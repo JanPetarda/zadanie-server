@@ -1,0 +1,9 @@
+{
+    "fruits": [
+        { "id": 1, "name": "jabłka", "price": null },
+        { "id": 2, "name": "pomarańcze", "price": null},
+        { "id": 3, "name": "banany",  "price": null},
+        { "id": 4, "name": "wiśnie", "price": null },
+        { "id": 5, "name": "winogorona", "price": null }
+    ]
+}
